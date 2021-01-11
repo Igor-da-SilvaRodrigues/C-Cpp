@@ -1,0 +1,1 @@
+Questões da lista demonstradas na prática em 'Demonstração.cpp'
